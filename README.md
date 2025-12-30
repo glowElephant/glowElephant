@@ -50,14 +50,15 @@ const glowElephant = {
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                              ⚔️ TECH STACK ⚔️                                  ║
+║                              ⚔️ TECH STACK ⚔️                                ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                               ║
-║   🎮 UNITY/C#    ████████████████████████████████░░░  LV.95   LEGENDARY      ║
-║   🐍 PYTHON      ██████████████████████████░░░░░░░░  LV.80   MASTER         ║
-║   💙 FLUTTER     ████████████████████████░░░░░░░░░░  LV.75   ADVANCED       ║
-║   🤖 AI/LLM      ████████████████████████░░░░░░░░░░  LV.75   ADVANCED       ║
-║   🔧 DEVOPS      ██████████████████░░░░░░░░░░░░░░░░  LV.60   SKILLED        ║
+║   🎮 UNITY/C#    ████████████████████████████████░░  LV.95   LEGENDARY       ║
+║   🐍 PYTHON      ██████████████████████████░░░░░░░░  LV.80   MASTER          ║
+║   💙 FLUTTER     ████████████████████████░░░░░░░░░░  LV.75   ADVANCED        ║
+║   🤖 AI/LLM      ████████████████████████░░░░░░░░░░  LV.75   ADVANCED        ║
+║   🥽 XR          ████████████████████░░░░░░░░░░░░░░  LV.60   SKILLED         ║
+║   🔧 DEVOPS      ████████████████████░░░░░░░░░░░░░░  LV.60   SKILLED         ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -68,7 +69,7 @@ const glowElephant = {
 
 <br>
 
-**AI Tools:** OpenAI API · Midjourney · D-ID · HeyGen · Applio · Flux · Kling AI
+**AI Tools:** OpenAI · Midjourney · D-ID · HeyGen · Applio · Flux · Kling AI · Claude · Gemini · Hailuo ai
 
 </div>
 
@@ -115,7 +116,7 @@ const glowElephant = {
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=glowElephant&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowElephant&theme=github_dark&utcOffset=9" height="160" />
 
 <br><br>
 

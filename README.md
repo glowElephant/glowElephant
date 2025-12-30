@@ -1,87 +1,88 @@
-<!-- 🎮 PLAYER SELECT SCREEN -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:00aa00&height=200&section=header&text=glowElephant&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🐘%20Illuminating%20Code%20in%20the%20Dark&descAlignY=75&descSize=20" width="100%" />
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ██████╗ ██╗      ██████╗ ██╗    ██╗███████╗██╗     ███████╗     ║
-║ ██╔════╝ ██║     ██╔═══██╗██║    ██║██╔════╝██║     ██╔════╝     ║
-║ ██║  ███╗██║     ██║   ██║██║ █╗ ██║█████╗  ██║     █████╗       ║
-║ ██║   ██║██║     ██║   ██║██║███╗██║██╔══╝  ██║     ██╔══╝       ║
-║ ╚██████╔╝███████╗╚██████╔╝╚███╔███╔╝███████╗███████╗███████╗     ║
-║  ╚═════╝ ╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝     ║
-║                    ███████╗██╗     ███████╗██████╗ ██╗  ██╗      ║
-║                    ██╔════╝██║     ██╔════╝██╔══██╗██║  ██║      ║
-║                    █████╗  ██║     █████╗  ██████╔╝███████║      ║
-║                    ██╔══╝  ██║     ██╔══╝  ██╔═══╝ ██╔══██║      ║
-║                    ███████╗███████╗███████╗██║     ██║  ██║      ║
-║                    ╚══════╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝      ║
-╠══════════════════════════════════════════════════════════════════╣
-║                    🎮 INSERT COIN TO START 🎮                     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=LOADING+PLAYER+PROFILE...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Loading" />
+<!-- 타이핑 애니메이션 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8E%AE+PLAYER+ONE+READY...;%F0%9F%90%8D+Python+%7C+%F0%9F%92%99+Flutter+%7C+%F0%9F%8E%AF+Unity;%F0%9F%9A%80+Building+awesome+stuff+in+Seoul!" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🕹️ PLAYER STATS
+## 🎮 SELECT YOUR CHARACTER
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-```css
-/*  ╔═══════════════════════════╗  */
-/*  ║   CHARACTER STATUS        ║  */
-/*  ╠═══════════════════════════╣  */
-/*  ║ NAME: glowElephant        ║  */
-/*  ║ CLASS: Full-Stack Wizard  ║  */
-/*  ║ LOCATION: Seoul, Korea    ║  */
-/*  ║ LVL: ???                  ║  */
-/*  ╠═══════════════════════════╣  */
-/*  ║ HP:  ████████████░░ 85%   ║  */
-/*  ║ MP:  ██████████████░ 95%  ║  */
-/*  ║ EXP: █████████░░░░░ 65%   ║  */
-/*  ╚═══════════════════════════╝  */
-```
+<img src="https://github-readme-stats.vercel.app/api?username=glowElephant&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00" width="100%" />
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=glowElephant&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
+```javascript
+class Player {
+  constructor() {
+    this.name = "glowElephant";
+    this.title = "Code Wizard";
+    this.location = "Seoul, Korea";
+    this.website = "glowelephant.site";
+
+    this.skills = {
+      languages: ["Python", "Dart", "C#"],
+      frameworks: ["Flutter", "Unity"],
+      tools: ["Git", "VS Code", "Figma"]
+    };
+
+    this.status = "Always coding...";
+  }
+
+  sayHi() {
+    return "Let's build something epic!";
+  }
+}
+```
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## ⚔️ SKILL TREE
+## ⚡ POWER LEVELS
 
 <div align="center">
 
 ```
-                           🎯 SKILLS UNLOCKED 🎯
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   [PYTHON]████████████████████░░░░  LV.85  🔥 MASTERED     │
-    │   [DART]██████████████████░░░░░░░  LV.72  ⚡ ADVANCED      │
-    │   [FLUTTER]█████████████████░░░░░░  LV.70  💎 ADVANCED     │
-    │   [GIT]████████████████░░░░░░░░░░  LV.65  🛡️ SKILLED       │
-    │   [UNITY]██████████████░░░░░░░░░░  LV.55  ⚔️ INTERMEDIATE  │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                            ⚔️ SKILL TREE ⚔️                              ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   🐍 PYTHON      ██████████████████████████████░░░░░  LV.90  LEGENDARY   ║
+║   💙 DART        ████████████████████████░░░░░░░░░░  LV.75  ADVANCED    ║
+║   🎯 FLUTTER     ████████████████████████░░░░░░░░░░  LV.75  ADVANCED    ║
+║   🎮 UNITY       ████████████████████░░░░░░░░░░░░░░  LV.60  SKILLED     ║
+║   🔧 GIT         ██████████████████████████░░░░░░░░  LV.80  MASTER      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,unity,git,github,vscode,figma&theme=dark&perline=8" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,unity,cs,git,github,vscode,figma,firebase&theme=dark&perline=10" />
+
+<br><br>
+
+<!-- 3D Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glowElephant&custom_title=🎮%20Contribution%20Quest%20Map&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 SNAKE GAME - Eating My Contributions!
+## 🐍 SNAKE BOSS BATTLE
 
 <div align="center">
 
@@ -91,46 +92,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/glowElephant/glowElephant/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
-> ⚠️ **BOSS FIGHT**: Snake이 내 커밋을 먹고 있어요! 더 많이 커밋해서 뱀을 키워주세요!
-
----
-
-## 🎰 INVENTORY (Top Repositories)
-
-<div align="center">
-
-<a href="https://github.com/glowElephant/minigame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glowElephant&repo=minigame&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/glowElephant/toon_flix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glowElephant&repo=toon_flix&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
+<br>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                     🏅 BADGE COLLECTION 🏅                      ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   ⚡ QUICKDRAW        🦈 PULL SHARK x2       🎯 YOLO           ║
-║   "First to draw"    "Merged PRs master"   "No looking back"  ║
-║                                                                ║
-║   🐘 GLOW ELEPHANT                                             ║
-║   "The legendary one who lights up the dark"                   ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+⚠️ WARNING: The snake is devouring my commits! Feed it more code! ⚠️
 ```
-
-<img src="https://github-profile-trophy.vercel.app/?username=glowElephant&theme=matrix&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
@@ -140,34 +106,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowElephant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glowElephant&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" />
-
-</div>
-
----
-
-## 🎮 MINI GAME: Choose Your Path!
-
-<div align="center">
-
-```
-    당신은 glowElephant의 GitHub에 도착했습니다.
-
-    무엇을 하시겠습니까?
-
-    ┌─────────────────────────────────────────┐
-    │                                         │
-    │   [1] ⭐ Star a Repository              │
-    │   [2] 🔱 Fork and Contribute            │
-    │   [3] 👀 Follow for Updates             │
-    │   [4] 💬 Start a Discussion             │
-    │                                         │
-    └─────────────────────────────────────────┘
-
-    > SELECT YOUR ACTION_
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowElephant&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="200" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glowElephant&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="200" />
 
 </div>
 
@@ -177,29 +118,30 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+<br>
+
+[![Website](https://img.shields.io/badge/🌍_WEBSITE-glowelephant.site-00ff00?style=for-the-badge&logoColor=white)](https://glowelephant.site/)
+[![Gmail](https://img.shields.io/badge/📧_EMAIL-gksdk1029@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gksdk1029@gmail.com)
+
+<br>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   💡 "In the darkness, the elephant glows brightest" 💡   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=glowElephant&style=for-the-badge&color=00ff00&label=🎮+PLAYER+VISITS" />
 
 </div>
 
----
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   🐘 "In the darkness, the elephant glows brightest" 🐘        ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=glowElephant&style=for-the-badge&color=brightgreen&label=VISITORS+COUNT" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00aa00&height=120&section=footer&animation=twinkling" width="100%" />
 
 <!--
-🎮 CHEAT CODE: ↑↑↓↓←→←→BA - Unlocks secret elephant dance
+🎮 SECRET CHEAT CODE: ↑↑↓↓←→←→BA
+Achievement Unlocked: You found the easter egg!
 -->

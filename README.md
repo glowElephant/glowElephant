@@ -1,15 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:00aa00&height=200&section=header&text=glowElephant&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🐘%20Illuminating%20Code%20in%20the%20Dark&descAlignY=75&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:00aa00&height=200&section=header&text=glowElephant&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=🐘%20Game%20Dev%20%2B%20AI%20Pipeline%20Builder&descAlignY=75&descSize=18" width="100%" />
 
 <div align="center">
 
-<!-- 타이핑 애니메이션 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%F0%9F%8E%AE+PLAYER+ONE+READY...;%F0%9F%90%8D+Python+%7C+%F0%9F%92%99+Flutter+%7C+%F0%9F%8E%AF+Unity;%F0%9F%9A%80+Building+awesome+stuff+in+Seoul!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=80&lines=%F0%9F%8E%AE+Unity+Game+Developer;%F0%9F%A4%96+AI+Pipeline+Builder;%F0%9F%9A%80+7%2B+Years+of+Experience" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🎮 SELECT YOUR CHARACTER
+## 🎮 PLAYER INFO
 
 <div align="center">
 <table>
@@ -22,26 +21,20 @@
 <td align="center" width="50%">
 
 ```javascript
-class Player {
-  constructor() {
-    this.name = "glowElephant";
-    this.title = "Code Wizard";
-    this.location = "Seoul, Korea";
-    this.website = "glowelephant.site";
+const glowElephant = {
+  name: "Jang HanAh",
+  role: "Game Developer",
+  location: "Seoul, Korea",
+  experience: "7+ years",
 
-    this.skills = {
-      languages: ["Python", "Dart", "C#"],
-      frameworks: ["Flutter", "Unity"],
-      tools: ["Git", "VS Code", "Figma"]
-    };
+  focus: [
+    "Unity Game Client",
+    "AI Pipeline Building",
+    "Tool Development"
+  ],
 
-    this.status = "Always coding...";
-  }
-
-  sayHi() {
-    return "Let's build something epic!";
-  }
-}
+  motto: "문제를 풀 수 있는 개발자"
+};
 ```
 
 </td>
@@ -51,32 +44,46 @@ class Player {
 
 ---
 
-## ⚡ POWER LEVELS
+## ⚡ SKILL TREE
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                            ⚔️ SKILL TREE ⚔️                              ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   🐍 PYTHON      ██████████████████████████████░░░░░  LV.90  LEGENDARY   ║
-║   💙 DART        ████████████████████████░░░░░░░░░░  LV.75  ADVANCED    ║
-║   🎯 FLUTTER     ████████████████████████░░░░░░░░░░  LV.75  ADVANCED    ║
-║   🎮 UNITY       ████████████████████░░░░░░░░░░░░░░  LV.60  SKILLED     ║
-║   🔧 GIT         ██████████████████████████░░░░░░░░  LV.80  MASTER      ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              ⚔️ TECH STACK ⚔️                                  ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🎮 UNITY/C#    ████████████████████████████████░░░  LV.95   LEGENDARY      ║
+║   🐍 PYTHON      ██████████████████████████░░░░░░░░  LV.80   MASTER         ║
+║   💙 FLUTTER     ████████████████████████░░░░░░░░░░  LV.75   ADVANCED       ║
+║   🤖 AI/LLM      ████████████████████████░░░░░░░░░░  LV.75   ADVANCED       ║
+║   🔧 DEVOPS      ██████████████████░░░░░░░░░░░░░░░░  LV.60   SKILLED        ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,unity,cs,git,github,vscode,figma,firebase&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=unity,cs,python,dart,flutter,typescript,git,github,vscode,figma&theme=dark&perline=10" />
 
-<br><br>
+<br>
 
-<!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=glowElephant&custom_title=🎮%20Contribution%20Quest%20Map&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&area=true&hide_border=true" width="100%" />
+**AI Tools:** OpenAI API · Midjourney · D-ID · HeyGen · Applio · Flux · Kling AI
+
+</div>
+
+---
+
+## 🚀 SHIPPED GAMES
+
+<div align="center">
+
+| Game | Genre | Role |
+|:----:|:-----:|:----:|
+| **두부팡** | 아동 발달 앱 | Unity Client |
+| **Comix Breaker** | TCG 로그라이크 | Client + Server |
+| **DigWorld** | 캐주얼 P2E | Client + Server |
+| **DigStar** | 수집형 캐주얼 | Client + Server |
 
 </div>
 
@@ -92,62 +99,49 @@ class Player {
   <img alt="github-snake" src="https://raw.githubusercontent.com/glowElephant/glowElephant/output/github-snake-dark.svg" />
 </picture>
 
-<br>
-
-```
-⚠️ WARNING: The snake is devouring my commits! Feed it more code! ⚠️
-```
-
 </div>
 
 ---
 
-## 📊 BATTLE STATISTICS
+## 📊 BATTLE STATS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowElephant&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowElephant&theme=github_dark" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github_dark" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowElephant&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowElephant&theme=github_dark" height="160" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=glowElephant&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00" height="180" />
+<img src="https://streak-stats.demolab.com/?user=glowElephant&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00" height="160" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glowElephant&custom_title=Contribution%20Map&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 🌐 CONNECT TO SERVER
+## 🌐 CONNECT
 
 <div align="center">
 
-<br>
-
-[![Website](https://img.shields.io/badge/🌍_WEBSITE-glowelephant.site-00ff00?style=for-the-badge&logoColor=white)](https://glowelephant.site/)
+[![Website](https://img.shields.io/badge/🌍_PORTFOLIO-glowelephant.site-00ff00?style=for-the-badge)](https://glowelephant.site/)
 [![Gmail](https://img.shields.io/badge/📧_EMAIL-gksdk1029@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gksdk1029@gmail.com)
 
 <br>
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   💡 "In the darkness, the elephant glows brightest" 💡   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+💡 "기술을 사용할 줄 아는가?" 보다 "문제를 풀 수 있는가?"
 ```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=glowElephant&style=for-the-badge&color=00ff00&label=🎮+PLAYER+VISITS" />
+<img src="https://komarev.com/ghpvc/?username=glowElephant&style=for-the-badge&color=00ff00&label=VISITORS" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00aa00&height=120&section=footer&animation=twinkling" width="100%" />
-
-<!--
-🎮 SECRET CHEAT CODE: ↑↑↓↓←→←→BA
-Achievement Unlocked: You found the easter egg!
--->

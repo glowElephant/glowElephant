@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8E%AE+PLAYER+ONE+READY...;%F0%9F%90%8D+Python+%7C+%F0%9F%92%99+Flutter+%7C+%F0%9F%8E%AF+Unity;%F0%9F%9A%80+Building+awesome+stuff+in+Seoul!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%F0%9F%8E%AE+PLAYER+ONE+READY...;%F0%9F%90%8D+Python+%7C+%F0%9F%92%99+Flutter+%7C+%F0%9F%8E%AF+Unity;%F0%9F%9A%80+Building+awesome+stuff+in+Seoul!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=glowElephant&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=github_dark" width="100%" />
 
 </td>
 <td align="center" width="50%">
@@ -106,9 +106,15 @@ class Player {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowElephant&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="200" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glowElephant&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowElephant&theme=github_dark" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github_dark" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowElephant&theme=github_dark" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=glowElephant&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideLabels=00ff00" height="180" />
 
 </div>
 

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94%EA%B0%80%3F;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+10%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+→+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+→+문제를+풀+수+있는가%3F;%24+echo+%24STACK+→+Unity+·+AI+·+Flutter+·+XR;%24+./ship+--games+4+--apps+3+--tools+10%2B" alt="Typing SVG" /></a>
 
 <br>
 
@@ -20,23 +20,17 @@
 
 ---
 
-<h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;PLAYER_INFO.json
-</h2>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;PLAYER_INFO.json
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=github_dark" width="90%" />
 </picture>
 
-</td>
-<td align="center" width="50%">
+</div>
 
 ```typescript
 const glowElephant = {
@@ -55,18 +49,9 @@ const glowElephant = {
     focus: "VTS Builder + AI Integration"
   },
 
-  shipped: {
-    games: 4,
-    apps: 3,
-    tools: "10+"
-  }
+  shipped: { games: 4, apps: 3, tools: "10+" }
 };
 ```
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -74,23 +59,15 @@ const glowElephant = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                         ⚔️  COMBAT STATS  ⚔️                        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   🎮 UNITY/C#     ████████████████████████████████░░  LV.95  MAX    ║
-║   🐍 PYTHON       ██████████████████████████░░░░░░░░  LV.80  +++   ║
-║   🤖 AI/LLM       ██████████████████████████░░░░░░░░  LV.80  +++   ║
-║   💙 FLUTTER      ████████████████████████░░░░░░░░░░  LV.75  ++    ║
-║   📝 TS/JS        ████████████████████████░░░░░░░░░░  LV.75  ++    ║
-║   🥽 XR/AR        ██████████████████████░░░░░░░░░░░░  LV.70  +     ║
-║   🔧 DEVOPS       ██████████████████████░░░░░░░░░░░░  LV.70  +     ║
-║                                                                      ║
-║   🏆 SHIPPED GAMES: 4  |  🚀 APPS: 3  |  🔨 TOOLS: 10+            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+| Skill | Level | Rank |
+|:------|:------|:-----|
+| 🎮 **Unity / C#** | `████████████████████░` LV.95 | MAX |
+| 🐍 **Python** | `████████████████░░░░░` LV.80 | +++ |
+| 🤖 **AI / LLM** | `████████████████░░░░░` LV.80 | +++ |
+| 💙 **Flutter / Dart** | `███████████████░░░░░░` LV.75 | ++ |
+| 📝 **TypeScript / JS** | `███████████████░░░░░░` LV.75 | ++ |
+| 🥽 **XR / AR** | `██████████████░░░░░░░` LV.70 | + |
+| 🔧 **DevOps / CI** | `██████████████░░░░░░░` LV.70 | + |
 
 <br>
 
@@ -106,7 +83,7 @@ const glowElephant = {
   <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,vscode,figma,redis,androidstudio,linux,lua,html&theme=dark&perline=10" />
 </picture>
 
-<br><br>
+<br>
 
 **🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `NotebookLM`
 
@@ -117,122 +94,33 @@ const glowElephant = {
 ## 🚀 FEATURED_PROJECTS
 
 <div align="center">
-<table>
-<tr>
 
-<td align="center" width="33%">
-<h4>🤖 AI_Language</h4>
-<sub>AI 에이전트 간 압축 통신 프로토콜<br>토큰 사용량 대폭 절감</sub>
-<br><br>
-<a href="https://github.com/glowElephant/AI_Language"><img src="https://img.shields.io/badge/Repo-1976d2?style=flat-square&logo=github&logoColor=white" /></a>
-<br>
-<sub><code>TypeScript</code> <code>LLM</code> <code>Multi-Agent</code></sub>
-</td>
+| | Project | Description | Stack |
+|:--:|:--------|:------------|:------|
+| 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. 토큰 사용량 대폭 절감 | `TypeScript` `LLM` |
+| 🌐 | **[vidfolio](https://glowelephant.site)** &nbsp; [![chat](https://img.shields.io/badge/AI_Chat-7b1fa2?style=flat-square&logo=openai&logoColor=white)](https://glowelephant.site/chat) | 포트폴리오 사이트 + OpenClaw 기반 AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
+| 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
+| 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
+| 📻 | **[morning-cast](https://github.com/glowElephant/morning-cast)** | 출근길 모닝 팟캐스트. AI가 매일 아침 기술 뉴스 브리핑 | `OpenClaw` `NotebookLM` |
+| 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
 
-<td align="center" width="33%">
-<h4>🌐 vidfolio</h4>
-<sub>포트폴리오 사이트 + AI 실시간 상담<br>OpenClaw 기반 챗봇 탑재</sub>
-<br><br>
-<a href="https://glowelephant.site"><img src="https://img.shields.io/badge/Live-2e8b57?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://glowelephant.site/chat"><img src="https://img.shields.io/badge/AI_Chat-7b1fa2?style=flat-square&logo=openai&logoColor=white" /></a>
-<br>
-<sub><code>Node.js</code> <code>OpenClaw</code> <code>SSE</code></sub>
-</td>
-
-<td align="center" width="33%">
-<h4>🔬 the_agents</h4>
-<sub>멀티 에이전트 협업 시스템<br>복잡한 태스크 분담 처리</sub>
-<br><br>
-<a href="https://github.com/glowElephant/the_agents"><img src="https://img.shields.io/badge/Repo-1976d2?style=flat-square&logo=github&logoColor=white" /></a>
-<br>
-<sub><code>JavaScript</code> <code>Agent</code> <code>LLM</code></sub>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="33%">
-<h4>📹 PDF_TO_VIDEO</h4>
-<sub>PDF → 요약 → 이미지 → 나레이션<br>영상 자동 제작 파이프라인</sub>
-<br><br>
-<a href="https://github.com/glowElephant/PDF_TO_VIDEO"><img src="https://img.shields.io/badge/Repo-1976d2?style=flat-square&logo=github&logoColor=white" /></a>
-<br>
-<sub><code>Python</code> <code>D-ID</code> <code>TTS</code></sub>
-</td>
-
-<td align="center" width="33%">
-<h4>📻 morning-cast</h4>
-<sub>출근길 모닝 팟캐스트<br>AI가 매일 아침 기술 뉴스 브리핑</sub>
-<br><br>
-<a href="https://github.com/glowElephant/morning-cast"><img src="https://img.shields.io/badge/Repo-1976d2?style=flat-square&logo=github&logoColor=white" /></a>
-<br>
-<sub><code>OpenClaw</code> <code>NotebookLM</code></sub>
-</td>
-
-<td align="center" width="33%">
-<h4>🕷️ PixelCrawler</h4>
-<sub>웹 페이지 통째로 캡쳐<br>MHTML, PNG, PDF 스냅샷 CLI</sub>
-<br><br>
-<a href="https://github.com/glowElephant/PixelCrawler"><img src="https://img.shields.io/badge/Repo-1976d2?style=flat-square&logo=github&logoColor=white" /></a>
-<br>
-<sub><code>Puppeteer</code> <code>Node.js</code> <code>CLI</code></sub>
-</td>
-
-</tr>
-</table>
 </div>
 
 <details>
 <summary><b>🎮 More Projects (click to expand)</b></summary>
 <br>
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>🏭 Bom_Factory</h4>
-<sub>AI 콘텐츠 생성 파이프라인</sub>
-<br><code>Python</code> <code>Gen AI</code>
-</td>
-<td align="center" width="25%">
-<h4>🦙 llm-local-deploy</h4>
-<sub>LLaMA 로컬 배포</sub>
-<br><code>Python</code> <code>Ollama</code>
-</td>
-<td align="center" width="25%">
-<h4>🔄 universal-converter</h4>
-<sub>범용 파일 변환 CLI</sub>
-<br><code>Python</code> <code>FFmpeg</code>
-</td>
-<td align="center" width="25%">
-<h4>📸 snap-path</h4>
-<sub>스크린샷 자동화</sub>
-<br><code>Python</code> <code>CLI</code>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<h4>📊 claude-usage-widget</h4>
-<sub>Claude API 사용량 모니터링</sub>
-<br><code>Python</code> <code>Widget</code>
-</td>
-<td align="center" width="25%">
-<h4>📰 news-reporter</h4>
-<sub>키워드 뉴스 이메일 리포팅</sub>
-<br><code>Python</code> <code>Streamlit</code>
-</td>
-<td align="center" width="25%">
-<h4>🎬 veo_loop</h4>
-<sub>AI 영상 이어붙이기</sub>
-<br><code>Veo</code> <code>Video Gen</code>
-</td>
-<td align="center" width="25%">
-<h4>💬 SimpleTcpChat</h4>
-<sub>TCP 메시지 통신</sub>
-<br><code>C++</code> <code>Networking</code>
-</td>
-</tr>
-</table>
-</div>
+
+| | Project | Description | Stack |
+|:--:|:--------|:------------|:------|
+| 🏭 | **Bom_Factory** | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
+| 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
+| 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
+| 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |
+| 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude API 사용량 모니터링 | `Python` `Widget` |
+| 📰 | **[news-reporter](https://github.com/glowElephant/news-reporter)** | 키워드 뉴스 이메일 리포팅 | `Python` `Streamlit` |
+| 🎬 | **[veo_loop](https://github.com/glowElephant/veo_loop)** | AI 영상 이어붙이기 실험 | `Veo` `Video Gen` |
+| 💬 | **[SimpleTcpChat](https://github.com/glowElephant/SimpleTcpChat)** | TCP 메시지 통신 예제 | `C++` `Networking` |
+
 </details>
 
 ---
@@ -275,13 +163,13 @@ const glowElephant = {
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowElephant&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowElephant&theme=github_dark" height="160" />
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowElephant&theme=github_dark" height="160" />
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowElephant&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowElephant&theme=github" />

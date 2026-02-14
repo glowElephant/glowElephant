@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=장한아%20%7C%20Jang%20HanAh&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94%EA%B0%80%3F;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+10%2B" alt="Typing SVG" /></a>
 
@@ -29,7 +29,7 @@
 
 ```typescript
 const glowElephant = {
-  name: "장한아 (Jang HanAh)",
+  name: "glowElephant",
   role: "Product Builder",
   location: "Korea",
   experience: "8+ years",

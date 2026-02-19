@@ -9,7 +9,7 @@
 &nbsp;
 [![AI Chat](https://img.shields.io/badge/AI_Chat-Talk_to_My_Bot-1a73e8?style=for-the-badge&logo=openai&logoColor=white)](https://glowelephant.site/chat)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-gksdk1029-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gksdk1029@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gksdk1029-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gksdk1029@gmail.com)
 
 </div>
 

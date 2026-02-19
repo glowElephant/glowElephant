@@ -18,41 +18,23 @@
 ## 🎮 PLAYER_INFO
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowElephant&theme=transparent" width="100%" />
+<img src="https://img.shields.io/badge/Product_Builder-8%2B_Years-1a73e8?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Seoul-SmartPro_·_Digital_Twin-34a853?style=for-the-badge&labelColor=0d1117" />
 
-</td>
-<td align="center" width="50%">
+<br><br>
 
-```typescript
-const glowElephant = {
-  name: "glowElephant",
-  role: "Product Builder",
-  location: "Korea",
-  experience: "8+ years",
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **10+ Tools** &nbsp;·&nbsp; 📦 **20 Repos**
 
-  philosophy: [
-    "기술을 쓸 줄 아는가보다,",
-    "문제를 풀 수 있는가?"
-  ],
+<br>
 
-  current: {
-    company: "SmartPro — Digital Twin",
-    focus: "VTS Builder + AI Integration"
-  },
+> *"기술을 쓸 줄 아는가보다, 문제를 풀 수 있는가?"*
 
-  shipped: {
-    games: 4, apps: 3, tools: "10+"
-  }
-};
-```
+<br>
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=glowElephant&theme=transparent&hide_border=true&ring=1a73e8&fire=34a853&currStreakLabel=1a73e8&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" width="55%" />
+
 </div>
 
 ---

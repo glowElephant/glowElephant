@@ -31,10 +31,6 @@
 
 > *"기술을 쓸 줄 아는가보다, 문제를 풀 수 있는가?"*
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=glowElephant&theme=transparent&hide_border=true&ring=1a73e8&fire=34a853&currStreakLabel=1a73e8&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" width="55%" />
-
 </div>
 
 ---

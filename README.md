@@ -89,7 +89,7 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏭 | **Bom_Factory** | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
+| 🏭 | **Bom_Factory** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
 | 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |

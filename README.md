@@ -76,6 +76,7 @@
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
+| 🗺️ | **COEX AR Navigation** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | Naver ARCeye VLsdk 기반 코엑스 실내 AR 내비게이션. 실내 정밀 측위 + 실시간 경로 안내 | `Unity` `ARCore` `VLsdk` |
 
 </div>
 

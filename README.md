@@ -77,6 +77,7 @@
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
 | 🗺️ | **COEX AR Navigation** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | Naver ARCeye VLsdk 기반 코엑스 실내 AR 내비게이션. 실내 정밀 측위 + 실시간 경로 안내 | `Unity` `ARCore` `VLsdk` |
+| ⚙️ | **Unity CI/CD Pipeline** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | Game CI + GitHub Actions 기반 버전별 자동 빌드 & 배포. 빌드 시간 70% 단축 | `GitHub Actions` `GameCI` `Docker` |
 
 </div>
 

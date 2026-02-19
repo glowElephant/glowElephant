@@ -79,7 +79,6 @@
 | 🌐 | **[vidfolio](https://glowelephant.site)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
-| 📻 | **[morning-cast](https://github.com/glowElephant/morning-cast)** | AI가 매일 아침 기술 뉴스를 수집해서 팟캐스트로 제작 | `OpenClaw` `NotebookLM` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
 
 </div>
@@ -90,14 +89,13 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏭 | **Bom_Factory** | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
+| 🏭 | **[Bom_Factory](https://github.com/glowElephant/Bom_Factory)** | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
 | 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |
 | 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude API 사용량 모니터링 | `Python` `Widget` |
 | 📰 | **[news-reporter](https://github.com/glowElephant/news-reporter)** | 키워드 뉴스 이메일 리포팅 | `Python` `Streamlit` |
 | 🎬 | **[veo_loop](https://github.com/glowElephant/veo_loop)** | AI 영상 이어붙이기 실험 | `Veo` `Video Gen` |
-| 💬 | **[SimpleTcpChat](https://github.com/glowElephant/SimpleTcpChat)** | TCP 메시지 통신 예제 | `C++` `Networking` |
 
 </details>
 
@@ -107,12 +105,12 @@
 
 <div align="center">
 
-| | Game | Genre | Stack | Role |
-|:--:|:--:|:--:|:--:|:--:|
-| 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client Lead |
-| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System |
-| 🟢 | **DigWorld** | 캐주얼 P2E | Unity · C# | Client + Server |
-| 🟢 | **DigStar** | 수집형 캐주얼 | Unity · Gamespark · TS | Full Stack |
+| | Game | Genre | Stack | Role | Link |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client Lead | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dobrain.therapy&hl=ko) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%EB%91%90%EB%B6%80%ED%8C%A1-%EC%98%81%EC%9C%A0%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-2%EC%84%B8/id1669198942) |
+| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
+| 🟢 | **DigWorld** | 캐주얼 P2E | Unity · C# | Client + Server | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/zzasd132/221723560947) |
+| 🟢 | **DigStar** | 수집형 캐주얼 | Unity · Gamespark · TS | Full Stack | [![YouTube](https://img.shields.io/badge/양띵-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=A5laGhq28AM) |
 
 </div>
 

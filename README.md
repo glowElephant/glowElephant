@@ -105,7 +105,7 @@
 
 | | Game | Genre | Stack | Role | Link |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client Lead | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dobrain.therapy&hl=ko) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%EB%91%90%EB%B6%80%ED%8C%A1-%EC%98%81%EC%9C%A0%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-2%EC%84%B8/id1669198942) |
+| 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dobrain.therapy&hl=ko) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%EB%91%90%EB%B6%80%ED%8C%A1-%EC%98%81%EC%9C%A0%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-2%EC%84%B8/id1669198942) |
 | 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
 | 🟢 | **DigWorld** | 캐주얼 P2E | Unity · C# | Client + Server | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/zzasd132/221723560947) |
 | 🟢 | **DigStar** | 수집형 캐주얼 | Unity · Gamespark · TS | Full Stack | [![YouTube](https://img.shields.io/badge/양띵-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=A5laGhq28AM) |
@@ -169,3 +169,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=120&section=footer&animation=twinkling" width="100%" />
+

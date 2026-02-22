@@ -21,7 +21,7 @@
 
 <img src="https://img.shields.io/badge/Product_Builder-8%2B_Years-1a73e8?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Seoul-SmartPro_·_Digital_Twin-34a853?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Daejeon-SmartPro_·_Digital_Twin-34a853?style=for-the-badge&labelColor=0d1117" />
 
 <br><br>
 
@@ -59,7 +59,33 @@
 
 <br>
 
-**🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `NotebookLM`
+**🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
+
+</div>
+
+---
+
+## 🤖 DEV_WORKFLOW
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/tmux-Multi_Session-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude_Code-Parallel_Agents-7b1fa2?style=for-the-badge&logo=anthropic&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Language-Token_Optimized-FF6F00?style=for-the-badge" />
+
+<br><br>
+
+| Component | Description |
+|:----------|:------------|
+| 🖥️ **tmux Multi-Session** | 메인 에이전트와 실시간 대화 + 장시간 태스크는 병렬 에이전트에 위임 |
+| 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
+| 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
+
+<br>
+
+> *AI 에이전트를 도구가 아닌 팀원으로 활용하는 병렬 개발 방식*
 
 </div>
 
@@ -71,6 +97,7 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
+| 🏗️ | **VTS Visualizer** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | 3D 디지털 트윈 에디터/뷰어. HLSL 셰이더 9종, 노드 애니메이션, 서버 실시간 데이터 바인딩. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` |
 | 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. 토큰 사용량 대폭 절감 | `TypeScript` `LLM` |
 | 🌐 | **[vidfolio](https://glowelephant.site)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
@@ -87,13 +114,14 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏭 | **Bom_Factory** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | AI 콘텐츠 생성 파이프라인 | `Python` `Gen AI` |
+| 🏭 | **Bom_Factory** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
 | 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |
 | 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude API 사용량 모니터링 | `Python` `Widget` |
 | 📰 | **[news-reporter](https://github.com/glowElephant/news-reporter)** | 키워드 뉴스 이메일 리포팅 | `Python` `Streamlit` |
 | 🎬 | **[veo_loop](https://github.com/glowElephant/veo_loop)** | AI 영상 이어붙이기 실험 | `Veo` `Video Gen` |
+| 📖 | **[toon_flix](https://github.com/glowElephant/toon_flix)** | Flutter 웹툰 뷰어 앱 | `Flutter` `Dart` |
 
 </details>
 

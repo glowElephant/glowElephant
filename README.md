@@ -69,6 +69,8 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Agent_Harness-Context_Engineering-E91E63?style=for-the-badge" />
+&nbsp;
 <img src="https://img.shields.io/badge/tmux-Multi_Session-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Claude_Code-Parallel_Agents-7b1fa2?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -79,13 +81,14 @@
 
 | Component | Description |
 |:----------|:------------|
+| 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어하는 컨텍스트 엔지니어링 |
 | 🖥️ **tmux Multi-Session** | 메인 에이전트와 실시간 대화 + 장시간 태스크는 병렬 에이전트에 위임 |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
 
 <br>
 
-> *AI 에이전트를 도구가 아닌 팀원으로 활용하는 병렬 개발 방식*
+> *AI 에이전트를 도구가 아닌 팀원으로 활용하는 병렬 개발 방식 — Agent Harness로 제어*
 
 </div>
 

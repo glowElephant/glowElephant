@@ -43,7 +43,7 @@
 |:------|:------|:-----|
 | 🎮 **Unity / C#** | `████████████████████░` LV.95 | 🏆 MAX |
 | 🐍 **Python** | `████████████████░░░░░` LV.80 | ⭐ +++ |
-| 🤖 **AI / LLM** | `████████████████░░░░░` LV.80 | ⭐ +++ |
+| 🤖 **AI / LLM** | `█████████████████░░░░` LV.85 | ⭐ +++ |
 | 💙 **Flutter / Dart** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 📝 **TypeScript / JS** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 🥽 **XR / AR** | `██████████████░░░░░░░` LV.70 | 🔥 + |
@@ -59,7 +59,7 @@
 
 <br>
 
-**🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
+**🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `RAG` · `GraphRAG` · `MCP` · `FAISS` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Agent_Harness-Context_Engineering-E91E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_Engineering-Harness_Engineering-E91E63?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/tmux-Multi_Session-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
 &nbsp;
@@ -81,7 +81,7 @@
 
 | Component | Description |
 |:----------|:------------|
-| 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어하는 컨텍스트 엔지니어링 |
+| 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
 | 🖥️ **tmux Multi-Session** | 메인 에이전트와 실시간 대화 + 장시간 태스크는 병렬 에이전트에 위임 |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
@@ -100,14 +100,16 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏗️ | **VTS Visualizer** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | 3D 디지털 트윈 에디터/뷰어. HLSL 셰이더 9종, 노드 애니메이션, 서버 실시간 데이터 바인딩. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` |
+| 🏗️ | **[VTS Visualizer](https://github.com/glowElephant/vts-visualizer)** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. HLSL 셰이더 9종, 노드 애니메이션, 서버 실시간 데이터 바인딩. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` |
 | 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. 토큰 사용량 대폭 절감 | `TypeScript` `LLM` |
 | 🌐 | **[vidfolio](https://glowelephant.site)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
-| 🗺️ | **COEX AR Navigation** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색 | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
-| ⚙️ | **GameCI Hub** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | 4개 Unity 프로젝트 통합 CI/CD. Android APK/AAR, iOS XCFramework 자동 빌드 & 배포 | `GitHub Actions` `GameCI` `Docker` `Gradle` |
+| 🧠 | **[graph-rag-viewer](https://github.com/glowElephant/graph-rag-viewer)** | GraphRAG 지식 그래프 시각화 + Agentic RAG 검색 엔진 | `Python` `FAISS` `NetworkX` `MCP` |
+| 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 모니터링 대시보드 | `JavaScript` `Node.js` |
+| 🗺️ | **[COEX AR Navigation](https://github.com/glowElephant/coex-ar-navigation)** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/coex-ar-navigation) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색 | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
+| ⚙️ | **[GameCI Hub](https://github.com/glowElephant/gameci-hub)** | 4개 Unity 프로젝트 통합 CI/CD. Android APK/AAR, iOS XCFramework 자동 빌드 & 배포 | `GitHub Actions` `GameCI` `Docker` `Gradle` |
 
 </div>
 
@@ -117,7 +119,7 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏭 | **Bom_Factory** ![Private](https://img.shields.io/badge/🔒_Private-gray?style=flat-square) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
+| 🏭 | **[Bom_Factory](https://github.com/glowElephant/bom-factory)** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/bom-factory) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
 | 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |

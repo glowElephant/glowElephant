@@ -5,9 +5,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/glowelephant.site-Visit_Portfolio-34a853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://glowelephant.site/)
+[![Portfolio](https://img.shields.io/badge/glowelephant.site-Visit_Portfolio-34a853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://glowelephant.site/?utm_source=github)
 &nbsp;
-[![AI Chat](https://img.shields.io/badge/AI_Chat-Talk_to_My_Bot-1a73e8?style=for-the-badge&logo=openai&logoColor=white)](https://glowelephant.site/chat)
+[![AI Chat](https://img.shields.io/badge/AI_Chat-Talk_to_My_Bot-1a73e8?style=for-the-badge&logo=openai&logoColor=white)](https://glowelephant.site/chat?utm_source=github)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-gksdk1029-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gksdk1029@gmail.com)
 
@@ -102,7 +102,7 @@
 |:--:|:--------|:------------|:------|
 | 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. HLSL 셰이더 9종, 노드 애니메이션, 서버 실시간 데이터 바인딩. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` |
 | 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. 토큰 사용량 대폭 절감 | `TypeScript` `LLM` |
-| 🌐 | **[vidfolio](https://glowelephant.site)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
+| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
@@ -193,7 +193,7 @@
 
 <br><br>
 
-[![AI Chat](https://img.shields.io/badge/💬_AI에게_나에_대해_물어보세요-34a853?style=for-the-badge)](https://glowelephant.site/chat)
+[![AI Chat](https://img.shields.io/badge/💬_AI에게_나에_대해_물어보세요-34a853?style=for-the-badge)](https://glowelephant.site/chat?utm_source=github)
 
 <br>
 

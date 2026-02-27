@@ -85,6 +85,9 @@
 | 🖥️ **tmux Multi-Session** | 메인 에이전트와 실시간 대화 + 장시간 태스크는 병렬 에이전트에 위임 |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
+| 🧠 **RAG + MCP** | 자체 구축 하이브리드 RAG 시스템을 MCP 서버로 Claude Code에 연결하여 실시간 활용 |
+| 🔌 **MCP 서버 8개** | RAG 검색, Notion, Gmail, Figma, 캘린더, 화면제어 등 업무 도구를 AI에 직접 연결 |
+| 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
 
 <br>
 

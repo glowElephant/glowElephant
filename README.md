@@ -55,7 +55,7 @@
 
 <img src="https://skillicons.dev/icons?i=unity,cs,python,dart,flutter,typescript,js,nodejs,docker,git&perline=10" width="600" />
 <br>
-<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,vscode,figma,redis,androidstudio,linux,lua,html&perline=10" width="600" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,vscode,figma,bash,androidstudio,linux,lua,html&perline=10" width="600" />
 
 <br>
 
@@ -71,8 +71,6 @@
 
 <img src="https://img.shields.io/badge/Context_Engineering-Harness_Engineering-E91E63?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/tmux-Multi_Session-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-&nbsp;
 <img src="https://img.shields.io/badge/Claude_Code-Parallel_Agents-7b1fa2?style=for-the-badge&logo=anthropic&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI_Language-Token_Optimized-FF6F00?style=for-the-badge" />
@@ -82,7 +80,6 @@
 | Component | Description |
 |:----------|:------------|
 | 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
-| 🖥️ **tmux Multi-Session** | 메인 에이전트와 실시간 대화 + 장시간 태스크는 병렬 에이전트에 위임 |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
 | 🧠 **RAG + MCP** | 자체 구축 하이브리드 RAG 시스템을 MCP 서버로 Claude Code에 연결하여 실시간 활용 |
@@ -142,7 +139,7 @@
 | | Game | Genre | Stack | Role | Link |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dobrain.therapy&hl=ko) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%EB%91%90%EB%B6%80%ED%8C%A1-%EC%98%81%EC%9C%A0%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-2%EC%84%B8/id1669198942) |
-| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
+| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mojitogames.cb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
 | 🟢 | **DigWorld** | 캐주얼 P2E | Unity · C# | Client + Server | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/zzasd132/221723560947) |
 | 🟢 | **DigStar** | 수집형 캐주얼 | Unity · Gamespark · TS | Full Stack | [![YouTube](https://img.shields.io/badge/양띵-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=A5laGhq28AM) |
 

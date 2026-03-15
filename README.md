@@ -25,7 +25,7 @@
 
 <br><br>
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **10+ Tools** &nbsp;·&nbsp; 📦 **20 Repos**
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **10+ Tools** &nbsp;·&nbsp; 📦 **21 Repos**
 
 <br>
 
@@ -107,6 +107,7 @@
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
 | 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. Claude Code에서 실시간 활용 중 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
+| 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | USD/KRW 환차익 자동매매 시스템. 6슬롯 분산 매매 엔진, Claude AI 실시간 전략 최적화, 자동 복구 Watchdog, 중세 길드 테마 대시보드, 디스코드 봇 | `Python` `FastAPI` `WebSocket` `Claude` `Discord.py` |
 | 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 모니터링 대시보드 | `JavaScript` `Node.js` |
 | 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건) | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
 | ⚙️ | **GameCI Hub** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/gameci-hub) | 4개 Unity 프로젝트 통합 CI/CD. Android APK/AAR, iOS XCFramework 자동 빌드 & 배포 | `GitHub Actions` `GameCI` `Docker` `Gradle` |

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94%EA%B0%80%3F;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-> *"기술을 쓸 줄 아는가보다, 문제를 풀 수 있는가?"*
+> *"좋은 제품은, 깊은 이해에서 시작된다"*
 
 </div>
 

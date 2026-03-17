@@ -27,6 +27,8 @@
 
 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **28 Repos**
 
+⚡ **12mo→1mo** (AI) &nbsp;·&nbsp; 💰 **80% Cost Reduction** &nbsp;·&nbsp; 🏗️ **70% Faster Builds**
+
 <br>
 
 > *"좋은 제품은, 깊은 이해에서 시작된다"*
@@ -50,7 +52,7 @@
 | 💱 **Quant / FinTech** | `██████████████░░░░░░░` LV.70 | 🔥 + |
 | 🔧 **DevOps / CI** | `██████████████░░░░░░░` LV.70 | 🔥 + |
 
-> 🏆 `SHIPPED: 4 Games` · 🚀 `APPS: 3` · 🔨 `TOOLS: 10+`
+> 🏆 `SHIPPED: 4 Games` · 🚀 `APPS: 3` · 🔨 `TOOLS: 15+`
 
 <br>
 

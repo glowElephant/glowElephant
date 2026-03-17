@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94%EA%B0%80%3F;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+10%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94%EA%B0%80%3F;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
 
 <br>
 
@@ -25,7 +25,7 @@
 
 <br><br>
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **10+ Tools** &nbsp;·&nbsp; 📦 **21 Repos**
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **28 Repos**
 
 <br>
 
@@ -83,8 +83,8 @@
 | 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
-| 🧠 **RAG + MCP** | 자체 구축 하이브리드 RAG 시스템을 MCP 서버로 Claude Code에 연결하여 실시간 활용 |
-| 🔌 **MCP 서버 8개** | RAG 검색, Notion, Gmail, Figma, 캘린더, 화면제어 등 업무 도구를 AI에 직접 연결 |
+| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **1,904 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
+| 🔌 **MCP 서버** | 직접 개발 2개 ([computer-control](https://github.com/glowElephant/computer-control-mcp), [web-fetcher](https://github.com/glowElephant/web-fetcher-mcp)) + 연동 6개 (Notion, Gmail, Figma, Calendar 등) |
 | 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
 
 <br>
@@ -101,17 +101,18 @@
 
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
-| 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. HLSL 셰이더 9종, 노드 애니메이션, 서버 실시간 데이터 바인딩. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` |
-| 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. 토큰 사용량 대폭 절감 | `TypeScript` `LLM` |
-| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 | `Node.js` `OpenClaw` `SSE` |
-| 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 멀티 에이전트 협업 시스템. 복잡한 태스크 분담 처리 | `JavaScript` `Agent` |
+| 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. 커스텀 HLSL 셰이더 9종, 노드 애니메이션 플로우, 서버 실시간 데이터 바인딩, LiveKit WebRTC 웹 스트리밍, 도킹 시스템. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` `LiveKit` |
+| 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. EBNF 문법, 렉서/파서/런타임 풀스택. 124개 테스트, **토큰 40.7% 절감** | `TypeScript` `Vitest` `tiktoken` |
+| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
+| 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |
+| 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
-| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. Claude Code에서 실시간 활용 중 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
-| 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | USD/KRW 환차익 자동매매 시스템. 6슬롯 분산 매매 엔진, Claude AI 실시간 전략 최적화, 자동 복구 Watchdog, 중세 길드 테마 대시보드, 백테스팅 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |
-| 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 모니터링 대시보드 | `JavaScript` `Node.js` |
-| 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건) | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
-| ⚙️ | **GameCI Hub** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/gameci-hub) | 4개 Unity 프로젝트 통합 CI/CD. Android APK/AAR, iOS XCFramework 자동 빌드 & 배포 | `GitHub Actions` `GameCI` `Docker` `Gradle` |
+| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. **1,904 노드 / 2,574 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
+| 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | USD/KRW 환차익 자동매매. 6슬롯 분산 매매 엔진, Claude AI 10분 옵티마이저, Watchdog 자동 복구, 중세 길드 대시보드, 디스코드 봇, 백테스트 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |
+| 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |
+| 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). 12개월→3개월 | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
+| ⚙️ | **GameCI Hub** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/gameci-hub) | 4개 Unity 프로젝트 통합 CI/CD. 빌드 시간 **70% 단축** (40분→12분). Android APK/AAR, iOS XCFramework | `GitHub Actions` `GameCI` `Docker` `Gradle` |
 
 </div>
 
@@ -122,11 +123,14 @@
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
 | 🏭 | **Bom_Factory** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/bom-factory) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
+| 🖥️ | **[computer-control-mcp](https://github.com/glowElephant/computer-control-mcp)** | Claude용 데스크톱 자동화 MCP 서버. 마우스·키보드·윈도우·스크린샷 제어 | `Python` `FastMCP` `pyautogui` |
+| 🌐 | **[web-fetcher-mcp](https://github.com/glowElephant/web-fetcher-mcp)** | Claude용 웹 페칭 MCP 서버. HTML/리소스/API 수집, 사내망 HTTPS 지원 | `Node.js` `MCP SDK` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
-| 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI | `Python` `FFmpeg` |
-| 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화 | `Python` `CLI` |
-| 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude API 사용량 모니터링 | `Python` `Widget` |
+| 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI. 38개 테스트 | `Python` `FFmpeg` |
+| 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화. 화면 얼림, 멀티 모니터, DPI 대응 | `Python` `CLI` |
+| 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude 사용량 모니터링 위젯. 항상 위 표시, exe 배포 | `Python` `Widget` |
 | 📰 | **[news-reporter](https://github.com/glowElephant/news-reporter)** | 키워드 뉴스 이메일 리포팅 | `Python` `Streamlit` |
+| 📹 | **[private_cctv](https://github.com/glowElephant/private_cctv)** | 남는 Android로 WebRTC CCTV 구축 | `Kotlin` `Node.js` `WebRTC` |
 | 🎬 | **[veo_loop](https://github.com/glowElephant/veo_loop)** | AI 영상 이어붙이기 실험 | `Veo` `Video Gen` |
 | 📖 | **[toon_flix](https://github.com/glowElephant/toon_flix)** | Flutter 웹툰 뷰어 앱 | `Flutter` `Dart` |
 

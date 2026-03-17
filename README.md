@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Flutter+%C2%B7+XR;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Python+%C2%B7+DevOps;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
 
 <br>
 
@@ -145,7 +145,7 @@
 | | Game | Genre | Stack | Role | Link |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 🟢 | **두부팡 (DubuPang)** | 아동 발달 디지털 치료 | Unity · C# · Flutter | Client | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dobrain.therapy&hl=ko) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%EB%91%90%EB%B6%80%ED%8C%A1-%EC%98%81%EC%9C%A0%EC%95%84-%EB%91%90%EB%87%8C-%ED%9B%88%EB%A0%A8-2%EC%84%B8/id1669198942) |
-| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![Google Play](https://img.shields.io/badge/Play-34a853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mojitogames.cb) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
+| 🟢 | **Comix Breaker** | TCG 로그라이크 | Unity · C# · Jenkins | Core Battle System | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MGSGNLdZhds) |
 | 🟢 | **DigWorld** | 캐주얼 P2E | Unity · C# | Client + Server | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/zzasd132/221723560947) |
 | 🟢 | **DigStar** | 수집형 캐주얼 | Unity · Gamespark · TS | Full Stack | [![YouTube](https://img.shields.io/badge/양띵-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=A5laGhq28AM) |
 
@@ -195,9 +195,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=2000&color=1A73E8&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9C%A8+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%ED%92%80+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%82%AC%EB%9E%8C%EC%9D%B4+%EB%90%98%EC%9E%90+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+together+%F0%9F%9A%80" />
-
-<br><br>
+<br>
 
 [![AI Chat](https://img.shields.io/badge/💬_AI에게_나에_대해_물어보세요-34a853?style=for-the-badge)](https://glowelephant.site/chat?utm_source=github)
 

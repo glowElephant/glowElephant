@@ -85,7 +85,7 @@
 | 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
-| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **1,904 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
+| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **5,200+ 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
 | 🔌 **MCP 서버** | 직접 개발 2개 ([computer-control](https://github.com/glowElephant/computer-control-mcp), [web-fetcher](https://github.com/glowElephant/web-fetcher-mcp)) + 연동 6개 (Notion, Gmail, Figma, Calendar 등) |
 | 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
 
@@ -110,7 +110,7 @@
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
 | 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
 | 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
-| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. **1,904 노드 / 2,574 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
+| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. **5,200+ 노드 / 6,600+ 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
 | 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | USD/KRW 환차익 자동매매. 6슬롯 분산 매매 엔진, Claude AI 10분 옵티마이저, Watchdog 자동 복구, 중세 길드 대시보드, 디스코드 봇, 백테스트 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |
 | 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
 | 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |

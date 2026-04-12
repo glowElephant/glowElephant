@@ -25,7 +25,7 @@
 
 <br><br>
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **28 Repos**
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **29 Repos**
 
 ⚡ **12mo→1mo** (AI) &nbsp;·&nbsp; 💰 **80% Cost Reduction** &nbsp;·&nbsp; 🏗️ **70% Faster Builds**
 

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Python+%C2%B7+DevOps;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+approach+%E2%86%92+AI+Native+Engineering+(Agent-Driven);%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Python+%C2%B7+DevOps;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
 
 <br>
 
@@ -20,6 +20,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Product_Builder-8%2B_Years-1a73e8?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Native_Engineering-Agent_Driven-7b1fa2?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Daejeon-SmartPro_·_Digital_Twin-34a853?style=for-the-badge&labelColor=0d1117" />
 
@@ -78,9 +80,11 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/AI_Native_Engineering-Agent_Driven-7b1fa2?style=for-the-badge" />
+&nbsp;
 <img src="https://img.shields.io/badge/Context_Engineering-Harness_Engineering-E91E63?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Claude_Code-Parallel_Agents-7b1fa2?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-Parallel_Agents-1a73e8?style=for-the-badge&logo=anthropic&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI_Language-Token_Optimized-FF6F00?style=for-the-badge" />
 
@@ -97,7 +101,7 @@
 
 <br>
 
-> *AI 에이전트를 도구가 아닌 팀원으로 활용하는 병렬 개발 방식 — Agent Harness로 제어*
+> *AI Native Engineering — AI 에이전트를 도구가 아닌 팀원으로 활용하는 병렬 개발 방식. Agent Harness로 제어, Context Engineering으로 일관성 유지*
 
 </div>
 

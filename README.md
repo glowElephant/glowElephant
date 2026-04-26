@@ -29,6 +29,8 @@
 
 ⚡ **12mo→1mo** (AI) &nbsp;·&nbsp; 💰 **80% Cost Reduction** &nbsp;·&nbsp; 🏗️ **70% Faster Builds**
 
+🦾 **4-Model Vision Pipeline** (GVHMR/ViTPose/RTMPose/YOLO) &nbsp;·&nbsp; ⏱️ **≤150ms Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align**
+
 <br>
 
 > *"좋은 제품은, 깊은 이해에서 시작된다"*
@@ -49,20 +51,24 @@
 | 💙 **Flutter / Dart** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 📝 **TypeScript / JS** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 🥽 **XR / AR** | `██████████████░░░░░░░` LV.70 | 🔥 + |
+| 🎥 **Computer Vision** | `██████████████░░░░░░░` LV.70 | 🔥 + |
 | 💱 **Quant / FinTech** | `██████████████░░░░░░░` LV.70 | 🔥 + |
 | 🔧 **DevOps / CI** | `██████████████░░░░░░░` LV.70 | 🔥 + |
+| 🌐 **3D Web (Three.js)** | `█████████████░░░░░░░░` LV.65 | 🔥 + |
 
 > 🏆 `SHIPPED: 4 Games` · 🚀 `APPS: 3` · 🔨 `TOOLS: 15+`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=unity,cs,python,dart,flutter,typescript,js,nodejs,docker,git&perline=10" width="600" />
+<img src="https://skillicons.dev/icons?i=unity,cs,python,dart,flutter,typescript,js,react,threejs,nodejs&perline=10" width="600" />
 <br>
-<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,vscode,figma,bash,androidstudio,linux,lua,html&perline=10" width="600" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,vscode,figma,bash,linux,lua&perline=10" width="600" />
 
 <br>
 
 **🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `RAG` · `GraphRAG` · `MCP` · `FAISS` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
+
+**🎥 Vision / Pose / 3D** &nbsp; `GVHMR` · `ViTPose-H` · `RTMPose-L` · `YOLO11x` · `YOLO-World` · `ByteTrack` · `SMPL` · `Three.js` · `@react-three/fiber` · `ezdxf`
 
 </div>
 

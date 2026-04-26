@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+8%2B+Years;%24+approach+%E2%86%92+AI+Native+Engineering+(Agent-Driven);%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+echo+%24STACK+%E2%86%92+Unity+%C2%B7+AI+%C2%B7+Python+%C2%B7+DevOps;%24+./ship+--games+4+--apps+3+--tools+15%2B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+Physical+AI+%C2%B7+Digital+Twin+Engineer;%24+approach+%E2%86%92+AI+Native+Engineering+(Agent-Driven);%24+focus+%E2%86%92+Vision+%C2%B7+Pose+%C2%B7+Digital+Twin+%C2%B7+Spatial;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+./ship+--games+4+--apps+3+--tools+15%2B+--digital-twins+2" alt="Typing SVG" /></a>
 
 <br>
 
@@ -19,19 +19,21 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Product_Builder-8%2B_Years-1a73e8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Physical_AI-Digital_Twin_Engineer-1a73e8?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI_Native_Engineering-Agent_Driven-7b1fa2?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Daejeon-SmartPro_·_Digital_Twin-34a853?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Computer_Vision-Pose_Estimation-FF6F00?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Daejeon-SmartPro-34a853?style=for-the-badge&labelColor=0d1117" />
 
 <br><br>
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **31 Repos**
+🦾 **4-Model Vision Pipeline** (GVHMR · ViTPose-H · RTMPose-L · YOLO-World) &nbsp;·&nbsp; ⏱️ **≤150ms Digital-Twin Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align (DXF→3D)**
 
-⚡ **12mo→1mo** (AI) &nbsp;·&nbsp; 💰 **80% Cost Reduction** &nbsp;·&nbsp; 🏗️ **70% Faster Builds**
+🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **5,200+ Node RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
 
-🦾 **4-Model Vision Pipeline** (GVHMR/ViTPose/RTMPose/YOLO) &nbsp;·&nbsp; ⏱️ **≤150ms Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align**
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **31 Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
 
 <br>
 
@@ -47,30 +49,35 @@
 
 | Skill | Level | Rank |
 |:------|:------|:-----|
-| 🎮 **Unity / C#** | `████████████████████░` LV.95 | 🏆 MAX |
+| 🦾 **Physical AI / Digital Twin** | `████████████████░░░░░` LV.80 | ⭐ +++ |
+| 🎥 **Computer Vision / Pose** | `███████████████░░░░░░` LV.75 | ⭐ +++ |
+| 🤖 **AI Native / Agentic** | `██████████████████░░░` LV.90 | ⭐ +++ |
+| 🎮 **Unity / C# / 3D Engine** | `████████████████████░` LV.95 | 🏆 MAX |
 | 🐍 **Python** | `████████████████░░░░░` LV.80 | ⭐ +++ |
-| 🤖 **AI / LLM** | `█████████████████░░░░` LV.85 | ⭐ +++ |
-| 💙 **Flutter / Dart** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 📝 **TypeScript / JS** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
-| 🥽 **XR / AR** | `██████████████░░░░░░░` LV.70 | 🔥 + |
-| 🎥 **Computer Vision** | `██████████████░░░░░░░` LV.70 | 🔥 + |
-| 💱 **Quant / FinTech** | `██████████████░░░░░░░` LV.70 | 🔥 + |
+| 🌐 **3D Web (Three.js / WebXR)** | `██████████████░░░░░░░` LV.70 | 🔥 + |
+| 🥽 **XR / AR / Spatial** | `██████████████░░░░░░░` LV.70 | 🔥 + |
+| 💙 **Flutter / Dart** | `███████████████░░░░░░` LV.75 | ⚡ ++ |
 | 🔧 **DevOps / CI** | `██████████████░░░░░░░` LV.70 | 🔥 + |
-| 🌐 **3D Web (Three.js)** | `█████████████░░░░░░░░` LV.65 | 🔥 + |
+| 💱 **Quant / FinTech** | `█████████████░░░░░░░░` LV.65 | 🔥 + |
 
-> 🏆 `SHIPPED: 4 Games` · 🚀 `APPS: 3` · 🔨 `TOOLS: 15+`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=unity,cs,python,dart,flutter,typescript,js,react,threejs,nodejs&perline=10" width="600" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,vscode,figma,bash,linux,lua&perline=10" width="600" />
+> 🏆 `2 Digital Twins (VTS · Data2Avatar)` · 🎥 `4-Model Vision Pipeline` · 🤖 `Multi-Agent Parallel Dev`
 
 <br>
 
-**🤖 AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `RAG` · `GraphRAG` · `MCP` · `FAISS` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
+<img src="https://skillicons.dev/icons?i=unity,cs,python,threejs,react,typescript,js,docker,nodejs,opencv&perline=10" width="600" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vscode,figma,bash,linux,dart,flutter&perline=10" width="600" />
 
-**🎥 Vision / Pose / 3D** &nbsp; `GVHMR` · `ViTPose-H` · `RTMPose-L` · `YOLO11x` · `YOLO-World` · `ByteTrack` · `SMPL` · `Three.js` · `@react-three/fiber` · `ezdxf`
+<br>
+
+**🦾 Physical AI / Digital Twin** &nbsp; `SMPL` · `Humanoid PointBoneAt` · `COCO17 TCP` · `VideoPlayer Sync` · `Camera Geometry` · `Multi-floor A*` · `ezdxf` · `Stair Voting Alignment`
+
+**🎥 Computer Vision / Pose / Tracking** &nbsp; `GVHMR (HMR4D)` · `ViTPose-H` · `RTMPose-L` · `YOLO11x-Pose` · `YOLO-World v2 (open-vocab)` · `ByteTrack` · `OpenCV`
+
+**🤖 Agentic / RAG / MCP** &nbsp; `Claude Code Parallel Agents` · `AI_Language Protocol` · `RAG · GraphRAG · BM25 (Hybrid)` · `FAISS` · `NetworkX` · `MCP (직접 개발 2 + 연동 6)`
+
+**🧠 Generative AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
 
 </div>
 
@@ -111,23 +118,23 @@
 
 <div align="center">
 
-| | Project | Description | Stack |
-|:--:|:--------|:------------|:------|
-| 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. 커스텀 HLSL 셰이더 9종, 노드 애니메이션 플로우, 서버 실시간 데이터 바인딩, LiveKit WebRTC 웹 스트리밍, 도킹 시스템. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` `LiveKit` |
-| 🦾 | **Data2Avatar** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/data2avater) | CCTV → Unity 디지털트윈 작업장 안전 모니터링. **GVHMR / ViTPose-H / RTMPose-L / YOLO-Pose 4종 모델 동시 운용**, YOLO-World open-vocab 사물 감지(헬멧·안전조끼·지게차), Docker 마이크로서비스, COCO17 TCP 단일 프로토콜. **≤150ms 동기화 / ≤3초 위험 탐지** 달성 | `Python` `Unity 6` `Docker` `GVHMR` `RTMPose` `YOLO-World` `SMPL` |
-| 🚪 | **Building Pathfinder** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/building-pathfinder) | DXF CAD 도면 → 다층 화재 대피 경로 시뮬레이션. **계단 투표 알고리즘 + 인접 층 체이닝**으로 7개 층(B2~RO) 자동 정합, ARC 모양 기반 문 감지, A* 다층 경로, 3D 트윙클 튜브 + 도착지 불 이펙트 + Unity 카메라 플라이스루 | `React 19` `TypeScript` `Three.js` `Zustand` `Python ezdxf` `Claude Vision` |
-| 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. EBNF 문법, 렉서/파서/런타임 풀스택. 124개 테스트, **토큰 40.7% 절감** | `TypeScript` `Vitest` `tiktoken` |
-| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
-| 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |
-| 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
-| 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
-| 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
-| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | 하이브리드 RAG + MCP 서버. **5,200+ 노드 / 6,600+ 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
-| 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | USD/KRW 환차익 자동매매. 6슬롯 분산 매매 엔진, Claude AI 10분 옵티마이저, Watchdog 자동 복구, 중세 길드 대시보드, 디스코드 봇, 백테스트 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |
-| 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
-| 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |
-| 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). 12개월→3개월 | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
-| ⚙️ | **GameCI Hub** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/gameci-hub) | 4개 Unity 프로젝트 통합 CI/CD. 빌드 시간 **70% 단축** (40분→12분). Android APK/AAR, iOS XCFramework | `GitHub Actions` `GameCI` `Docker` `Gradle` |
+| | Project | Track | Description | Stack |
+|:--:|:--------|:-----|:------------|:------|
+| 🦾 | **Data2Avatar** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/data2avater) | `Physical AI` `Vision` `Digital Twin` | CCTV → Unity 디지털트윈 작업장 안전 모니터링. **GVHMR / ViTPose-H / RTMPose-L / YOLO-Pose 4종 포즈 모델 동시 운용**, YOLO-World open-vocab 사물 감지(헬멧·안전조끼·지게차), Docker 마이크로서비스, COCO17 TCP 단일 프로토콜. **≤150ms 동기화 / ≤3초 위험 탐지** 달성 | `Python` `Unity 6` `Docker` `GVHMR` `RTMPose` `YOLO-World` `SMPL` `ByteTrack` |
+| 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | `Digital Twin` `3D Engine` | 산업 3D 디지털 트윈 에디터/뷰어. 커스텀 HLSL 셰이더 9종, 노드 애니메이션 플로우, 서버 실시간 데이터 바인딩, LiveKit WebRTC 웹 스트리밍, 도킹 시스템. **12개월→1개월** (AI Native) | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` `LiveKit` |
+| 🚪 | **Building Pathfinder** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/building-pathfinder) | `Spatial AI` `3D Web` | DXF CAD 도면 → 다층 화재 대피 경로 시뮬레이션. **계단 투표 알고리즘 + 인접 층 체이닝**으로 7개 층(B2~RO) 자동 정합, ARC 모양 기반 문 감지, A* 다층 경로, 3D 트윙클 튜브 + 도착지 불 이펙트 + Unity 카메라 플라이스루 | `React 19` `TypeScript` `Three.js` `Zustand` `Python ezdxf` `Claude Vision` |
+| 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | `Agentic AI` | AI 에이전트 간 압축 통신 프로토콜. EBNF 문법, 렉서/파서/런타임 풀스택. 124개 테스트, **토큰 40.7% 절감** | `TypeScript` `Vitest` `tiktoken` |
+| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | `Agentic AI` `RAG` | 하이브리드 RAG + MCP 서버. **5,200+ 노드 / 6,600+ 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
+| 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | `Spatial AI` `XR` | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). **12개월+ → 3개월** | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
+| 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | `Agentic AI` | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
+| 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | `Agentic AI` `Tool` | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
+| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | `Web` `AI Chat` | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
+| 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | `Generative AI` | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |
+| 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | `Agentic AI` `Tool` | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |
+| 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | `Agentic AI` `Quant` | USD/KRW 환차익 자동매매. 6슬롯 분산 매매 엔진, Claude AI 10분 옵티마이저, Watchdog 자동 복구, 중세 길드 대시보드, 디스코드 봇, 백테스트 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |
+| ⚙️ | **GameCI Hub** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/gameci-hub) | `DevOps` | 4개 Unity 프로젝트 통합 CI/CD. 빌드 시간 **70% 단축** (40분→12분). Android APK/AAR, iOS XCFramework | `GitHub Actions` `GameCI` `Docker` `Gradle` |
+| 📹 | **[PDF_TO_VIDEO](https://github.com/glowElephant/PDF_TO_VIDEO)** | `Generative AI` | PDF → 요약 → 이미지 → 나레이션 영상 자동 제작 | `Python` `D-ID` `TTS` |
+| 🕷️ | **[PixelCrawler](https://github.com/glowElephant/PixelCrawler)** | `Tool` | 웹 페이지 통째로 캡쳐. MHTML, PNG, PDF 스냅샷 CLI | `Puppeteer` `Node.js` |
 
 </div>
 

@@ -25,7 +25,7 @@
 
 <br><br>
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **29 Repos**
+🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **31 Repos**
 
 ⚡ **12mo→1mo** (AI) &nbsp;·&nbsp; 💰 **80% Cost Reduction** &nbsp;·&nbsp; 🏗️ **70% Faster Builds**
 
@@ -104,6 +104,8 @@
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
 | 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | 3D 디지털 트윈 에디터/뷰어. 커스텀 HLSL 셰이더 9종, 노드 애니메이션 플로우, 서버 실시간 데이터 바인딩, LiveKit WebRTC 웹 스트리밍, 도킹 시스템. 12개월→1개월 | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` `LiveKit` |
+| 🦾 | **Data2Avatar** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/data2avater) | CCTV → Unity 디지털트윈 작업장 안전 모니터링. **GVHMR / ViTPose-H / RTMPose-L / YOLO-Pose 4종 모델 동시 운용**, YOLO-World open-vocab 사물 감지(헬멧·안전조끼·지게차), Docker 마이크로서비스, COCO17 TCP 단일 프로토콜. 정부과제 RS-2025-25461793 (≤150ms 동기화 충족) | `Python` `Unity 6` `Docker` `GVHMR` `RTMPose` `YOLO-World` `SMPL` |
+| 🚪 | **Building Pathfinder** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/building-pathfinder) | DXF CAD 도면 → 다층 화재 대피 경로 시뮬레이션. **계단 투표 알고리즘 + 인접 층 체이닝**으로 7개 층(B2~RO) 자동 정합, ARC 모양 기반 문 감지, A* 다층 경로, 3D 트윙클 튜브 + 도착지 불 이펙트 + Unity 카메라 플라이스루 | `React 19` `TypeScript` `Three.js` `Zustand` `Python ezdxf` `Claude Vision` |
 | 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | AI 에이전트 간 압축 통신 프로토콜. EBNF 문법, 렉서/파서/런타임 풀스택. 124개 테스트, **토큰 40.7% 절감** | `TypeScript` `Vitest` `tiktoken` |
 | 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
 | 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |

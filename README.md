@@ -31,7 +31,7 @@
 
 🦾 **4-Model Vision Pipeline** (GVHMR · ViTPose-H · RTMPose-L · YOLO-World) &nbsp;·&nbsp; ⏱️ **≤150ms Digital-Twin Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align (DXF→3D)**
 
-🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **5,200+ Node RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
+🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **9,500+ Node RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
 
 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **31 Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
 
@@ -102,7 +102,7 @@
 | 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
-| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **5,200+ 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
+| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **9,500+ 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
 | 🔌 **MCP 서버** | 직접 개발 2개 ([computer-control](https://github.com/glowElephant/computer-control-mcp), [web-fetcher](https://github.com/glowElephant/web-fetcher-mcp)) + 연동 6개 (Notion, Gmail, Figma, Calendar 등) |
 | 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
 
@@ -124,7 +124,7 @@
 | 🏗️ | **VTS Visualizer** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/vts-visualizer) | `Digital Twin` `3D Engine` | 산업 3D 디지털 트윈 에디터/뷰어. 커스텀 HLSL 셰이더 9종, 노드 애니메이션 플로우, 서버 실시간 데이터 바인딩, LiveKit WebRTC 웹 스트리밍, 도킹 시스템. **12개월→1개월** (AI Native) | `Unity 6` `URP` `HLSL` `Socket.IO` `WebRTC` `LiveKit` |
 | 🚪 | **Building Pathfinder** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/building-pathfinder) | `Spatial AI` `3D Web` | DXF CAD 도면 → 다층 화재 대피 경로 시뮬레이션. **계단 투표 알고리즘 + 인접 층 체이닝**으로 7개 층(B2~RO) 자동 정합, ARC 모양 기반 문 감지, A* 다층 경로, 3D 트윙클 튜브 + 도착지 불 이펙트 + Unity 카메라 플라이스루 | `React 19` `TypeScript` `Three.js` `Zustand` `Python ezdxf` `Claude Vision` |
 | 🤖 | **[AI_Language](https://github.com/glowElephant/AI_Language)** | `Agentic AI` | AI 에이전트 간 압축 통신 프로토콜. EBNF 문법, 렉서/파서/런타임 풀스택. 124개 테스트, **토큰 40.7% 절감** | `TypeScript` `Vitest` `tiktoken` |
-| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | `Agentic AI` `RAG` | 하이브리드 RAG + MCP 서버. **5,200+ 노드 / 6,600+ 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
+| 🧠 | **graph-RAG-study** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/graph-rag-viewer) [![2D](https://img.shields.io/badge/🔍_2D-34a853?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/) [![3D](https://img.shields.io/badge/🌐_3D-1a73e8?style=flat-square)](https://glowelephant.github.io/graph-rag-viewer/3d.html) | `Agentic AI` `RAG` | 하이브리드 RAG + MCP 서버. **9,500+ 노드 / 12,000+ 엣지** 지식 그래프, Hit Rate 100%, 9개 검색 도구 | `Python` `FAISS` `NetworkX` `MCP` `RAG` |
 | 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | `Spatial AI` `XR` | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). **12개월+ → 3개월** | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | `Agentic AI` | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
 | 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | `Agentic AI` `Tool` | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |

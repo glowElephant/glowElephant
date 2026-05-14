@@ -33,7 +33,7 @@
 
 🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **9,556 Node / 12,063 Edge RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
 
-🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench): 72/80 — Tool Maker** &nbsp;·&nbsp; 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **16 Tools** &nbsp;·&nbsp; 📦 **24 Original Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
+🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench): 74/80 — Tool Maker** &nbsp;·&nbsp; 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **16 Tools** &nbsp;·&nbsp; 📦 **24 Original Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
 
 <br>
 
@@ -105,7 +105,7 @@
 | 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **9,556 노드 / 12,063 엣지**, Hit Rate 100%, 9개 MCP 도구 |
 | 🔌 **MCP 통합** | rag-search, Notion, GitHub, Figma, Chrome DevTools, computer-control, web-fetcher, HWP 등 8개+ MCP 동시 운용 |
 | 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
-| 🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench)** | 본인 환경을 8축으로 자기측정하는 CLI. 절대 임계값 + 동적 percentile. 본인 점수 **72/80 (Tool Maker)** |
+| 🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench)** | 본인 환경을 8축으로 자기측정하는 CLI. 절대 임계값 + 동적 percentile. 본인 점수 **74/80 (Tool Maker)** |
 
 <br>
 
@@ -129,7 +129,7 @@
 | 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | `Spatial AI` `XR` | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). **12개월+ → 3개월** | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | `Agentic AI` | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
 | 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | `Agentic AI` `Tool` | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
-| 🛠 | **[harness-bench](https://github.com/glowElephant/harness-bench)** &nbsp; [![npm](https://img.shields.io/npm/v/harness-bench?style=flat-square&label=npm&color=cb3837)](https://www.npmjs.com/package/harness-bench) | `Agentic AI` `Tool` `Benchmark` | Claude Code 개발 환경의 AI Native 성숙도를 8축으로 측정하는 CLI. 절대 임계값(CMM+Anthropic+산업자료) + 동적 percentile. 5초 안에 결과, 메타데이터만, 코드/프롬프트 절대 안 읽음. 본인 점수 **72/80 Tool Maker** | `Node.js` `TypeScript` `npx harness-bench` |
+| 🛠 | **[harness-bench](https://github.com/glowElephant/harness-bench)** &nbsp; [![npm](https://img.shields.io/npm/v/harness-bench?style=flat-square&label=npm&color=cb3837)](https://www.npmjs.com/package/harness-bench) | `Agentic AI` `Tool` `Benchmark` | Claude Code 개발 환경의 AI Native 성숙도를 8축으로 측정하는 CLI. 절대 임계값(CMM+Anthropic+산업자료) + 동적 percentile. 5초 안에 결과, 메타데이터만, 코드/프롬프트 절대 안 읽음. 본인 점수 **74/80 Tool Maker** | `Node.js` `TypeScript` `npx harness-bench` |
 | 🧬 | **[loom-protocol](https://github.com/glowElephant/loom-protocol)** | `Standard` `Game AI` | 살아있는 게임을 위한 의미 프로토콜. **LGD 10 레이어** (IDENTITY/SOUL/MOOD/WORLD/RULES/PACING/ADAPTATION/REALITY/STATE/CHRONICLE), RFC 2119 키워드, EBNF, 컨포먼스 레벨 Bronze→Platinum, 14챕터 백서, 한·영 동등 작성, CC BY 4.0 + MIT 듀얼 라이선스 | `Spec` `Whitepaper` `JSON Schema` `MCP` |
 | 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | `Web` `AI Chat` | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
 | 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | `Generative AI` | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |

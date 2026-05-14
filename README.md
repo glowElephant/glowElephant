@@ -31,9 +31,9 @@
 
 🦾 **4-Model Vision Pipeline** (GVHMR · ViTPose-H · RTMPose-L · YOLO-World) &nbsp;·&nbsp; ⏱️ **≤150ms Digital-Twin Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align (DXF→3D)**
 
-🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **9,500+ Node RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
+🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **9,556 Node / 12,063 Edge RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
 
-🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **15+ Tools** &nbsp;·&nbsp; 📦 **31 Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
+🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench): 72/80 — Tool Maker** &nbsp;·&nbsp; 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **16 Tools** &nbsp;·&nbsp; 📦 **24 Original Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**
 
 <br>
 
@@ -102,9 +102,10 @@
 | 🎛️ **Agent Harness** | CLAUDE.md, rules/, hooks, progress.json으로 에이전트 행동을 체계적으로 제어 — Context Engineering + Harness Engineering |
 | 🤖 **Claude Code Agents** | 복수의 AI 에이전트가 동시에 코딩·리뷰·리서치 수행 |
 | 🗣️ **[AI_Language](https://github.com/glowElephant/AI_Language)** | 에이전트 간 압축 통신 프로토콜 → 토큰 사용량 대폭 절감 |
-| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **9,500+ 노드 그래프**, Hit Rate 100%, 9개 MCP 도구 |
-| 🔌 **MCP 서버** | 직접 개발 2개 ([computer-control](https://github.com/glowElephant/computer-control-mcp), [web-fetcher](https://github.com/glowElephant/web-fetcher-mcp)) + 연동 6개 (Notion, Gmail, Figma, Calendar 등) |
+| 🧠 **RAG + MCP** | 하이브리드 RAG (Vector+Graph+BM25) — **9,556 노드 / 12,063 엣지**, Hit Rate 100%, 9개 MCP 도구 |
+| 🔌 **MCP 통합** | rag-search, Notion, GitHub, Figma, Chrome DevTools, computer-control, web-fetcher, HWP 등 8개+ MCP 동시 운용 |
 | 🔄 **3대 PC 동기화** | setup.py + sync.py로 회사·서버·노트북에서 동일한 AI 개발 환경 유지 |
+| 🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench)** | 본인 환경을 8축으로 자기측정하는 CLI. 절대 임계값 + 동적 percentile. 본인 점수 **72/80 (Tool Maker)** |
 
 <br>
 
@@ -128,6 +129,8 @@
 | 🗺️ | **COEX AR Navigation** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/coex-ar-navigation) | `Spatial AI` `XR` | Naver VLsdk 실내 정밀 측위 + AR 경로 안내. UaaL 아키텍처, 다층 내비, POI 검색. [ARCeyeVLSDK](https://github.com/NaverCloudPlatform/ARCeyeVLSDK) OSS 버그 리포트 기여 (SDK 패치 3건). **12개월+ → 3개월** | `Unity` `AR Foundation` `VLsdk` `VContainer` `UniRx` |
 | 🔬 | **[the_agents](https://github.com/glowElephant/the_agents)** | `Agentic AI` | 기획+개발 AI 에이전트 협업 시스템. Claude CLI 실제 호출, 양방향 통신, 액션 태그 분업, 대화 로깅 | `JavaScript` `Express` `Socket.IO` |
 | 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | `Agentic AI` `Tool` | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
+| 🛠 | **[harness-bench](https://github.com/glowElephant/harness-bench)** &nbsp; [![npm](https://img.shields.io/npm/v/harness-bench?style=flat-square&label=npm&color=cb3837)](https://www.npmjs.com/package/harness-bench) | `Agentic AI` `Tool` `Benchmark` | Claude Code 개발 환경의 AI Native 성숙도를 8축으로 측정하는 CLI. 절대 임계값(CMM+Anthropic+산업자료) + 동적 percentile. 5초 안에 결과, 메타데이터만, 코드/프롬프트 절대 안 읽음. 본인 점수 **72/80 Tool Maker** | `Node.js` `TypeScript` `npx harness-bench` |
+| 🧬 | **[loom-protocol](https://github.com/glowElephant/loom-protocol)** | `Standard` `Game AI` | 살아있는 게임을 위한 의미 프로토콜. **LGD 10 레이어** (IDENTITY/SOUL/MOOD/WORLD/RULES/PACING/ADAPTATION/REALITY/STATE/CHRONICLE), RFC 2119 키워드, EBNF, 컨포먼스 레벨 Bronze→Platinum, 14챕터 백서, 한·영 동등 작성, CC BY 4.0 + MIT 듀얼 라이선스 | `Spec` `Whitepaper` `JSON Schema` `MCP` |
 | 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | `Web` `AI Chat` | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
 | 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | `Generative AI` | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |
 | 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | `Agentic AI` `Tool` | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |
@@ -145,16 +148,15 @@
 | | Project | Description | Stack |
 |:--:|:--------|:------------|:------|
 | 🏭 | **Bom_Factory** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/bom-factory) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
-| 🖥️ | **[computer-control-mcp](https://github.com/glowElephant/computer-control-mcp)** | Claude용 데스크톱 자동화 MCP 서버. 마우스·키보드·윈도우·스크린샷 제어 | `Python` `FastMCP` `pyautogui` |
-| 🌐 | **[web-fetcher-mcp](https://github.com/glowElephant/web-fetcher-mcp)** | Claude용 웹 페칭 MCP 서버. HTML/리소스/API 수집, 사내망 HTTPS 지원 | `Node.js` `MCP SDK` |
+| 🦾 | **[claude-session-manager](https://github.com/glowElephant/claude-session-manager)** | Claude Code 세션 데스크탑 매니저. Haiku 자동 요약, 멀티 클라우드 sync (GDrive/OneDrive/Dropbox/iCloud), Windows 터미널 자동 감지 | `Tauri 2` `Rust` `React` `shadcn/ui` |
+| 🚀 | **[context-forge](https://github.com/glowElephant/context-forge)** | "create-react-app for AI-augmented codebases" — 디스커션→카탈로그→GitHub 부트스트랩. v1.0.0 | `Python` `Catalog` `GitHub API` |
+| 🤖 | **[robot-joint-studio-release](https://github.com/glowElephant/robot-joint-studio-release)** | 레인보우 로보틱스 채용 과제 산출물 (Electron + RN 멀티빌드, URDF). Public 산출물 + Private 소스 분리 구조 | `React` `TypeScript` `Electron 33` `RN 0.75` `Three.js` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI. 38개 테스트 | `Python` `FFmpeg` |
 | 📸 | **[snap-path](https://github.com/glowElephant/snap-path)** | 스크린샷 워크플로우 자동화. 화면 얼림, 멀티 모니터, DPI 대응 | `Python` `CLI` |
 | 📊 | **[claude-usage-widget](https://github.com/glowElephant/claude-usage-widget)** | Claude 사용량 모니터링 위젯. 항상 위 표시, exe 배포 | `Python` `Widget` |
 | 📰 | **[news-reporter](https://github.com/glowElephant/news-reporter)** | 키워드 뉴스 이메일 리포팅 | `Python` `Streamlit` |
 | 📹 | **[private_cctv](https://github.com/glowElephant/private_cctv)** | 남는 Android로 WebRTC CCTV 구축 | `Kotlin` `Node.js` `WebRTC` |
-| 🎬 | **[veo_loop](https://github.com/glowElephant/veo_loop)** | AI 영상 이어붙이기 실험 | `Veo` `Video Gen` |
-| 📖 | **[toon_flix](https://github.com/glowElephant/toon_flix)** | Flutter 웹툰 뷰어 앱 | `Flutter` `Dart` |
 
 </details>
 

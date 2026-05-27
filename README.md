@@ -149,7 +149,7 @@
 |:--:|:--------|:------------|:------|
 | 🏭 | **Bom_Factory** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/bom-factory) | 강아지 인터뷰 릴스 영상 자동 생성 파이프라인 | `Python` `Gemini` `Veo3` |
 | 🦾 | **[claude-session-manager](https://github.com/glowElephant/claude-session-manager)** | Claude Code 세션 데스크탑 매니저. Haiku 자동 요약, 멀티 클라우드 sync (GDrive/OneDrive/Dropbox/iCloud), Windows 터미널 자동 감지 | `Tauri 2` `Rust` `React` `shadcn/ui` |
-| 🚀 | **[context-forge](https://github.com/glowElephant/context-forge)** | "create-react-app for AI-augmented codebases" — 디스커션→카탈로그→GitHub 부트스트랩. v1.0.0 | `Python` `Catalog` `GitHub API` |
+| 🚀 | **[context-forge](https://github.com/glowElephant/context-forge)** | "create-react-app for AI-augmented codebases" — 디스커션→카탈로그→GitHub 부트스트랩. **v1.1.0** — 82개 카탈로그 소스 + 주간 자동 sync + 월간 자동 발굴 | `Python` `Catalog` `GitHub API` |
 | 🤖 | **[robot-joint-studio-release](https://github.com/glowElephant/robot-joint-studio-release)** | 레인보우 로보틱스 채용 과제 산출물 (Electron + RN 멀티빌드, URDF). Public 산출물 + Private 소스 분리 구조 | `React` `TypeScript` `Electron 33` `RN 0.75` `Three.js` |
 | 🦙 | **[llm-local-deploy](https://github.com/glowElephant/llm-local-deploy)** | LLaMA 모델 로컬 배포 | `Python` `Ollama` |
 | 🔄 | **[universal-converter](https://github.com/glowElephant/universal-converter)** | 범용 파일 변환 + 요약 CLI. 38개 테스트 | `Python` `FFmpeg` |
@@ -159,6 +159,28 @@
 | 📹 | **[private_cctv](https://github.com/glowElephant/private_cctv)** | 남는 Android로 WebRTC CCTV 구축 | `Kotlin` `Node.js` `WebRTC` |
 
 </details>
+
+---
+
+## 📚 CATALOG_SOURCES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Forks-82+-7b1fa2?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Auto_Sync-Weekly-34a853?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Auto_Discover-Monthly-1a73e8?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+[context-forge](https://github.com/glowElephant/context-forge) 카탈로그 소스 — AI 코딩 에이전트 하니스 큐레이션용 fork 모음.
+**본 프로필의 originals와 별개** — 모든 fork에 `context-forge-source` 토픽 부착, upstream 변경을 매주 일요일 자동 sync.
+
+[![View all sources](https://img.shields.io/badge/🔍_View_All_82+_Sources-1a73e8?style=for-the-badge)](https://github.com/glowElephant?tab=repositories&q=topic%3Acontext-forge-source) &nbsp;
+[![context-forge repo](https://img.shields.io/badge/📦_context--forge_repo-7b1fa2?style=for-the-badge)](https://github.com/glowElephant/context-forge)
+
+</div>
 
 ---
 

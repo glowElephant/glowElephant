@@ -25,7 +25,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Computer_Vision-Pose_Estimation-FF6F00?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Daejeon-SmartPro-34a853?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rainbow_Robotics-Principal_Researcher-34a853?style=for-the-badge&labelColor=0d1117" />
 
 <br><br>
 

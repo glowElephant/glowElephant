@@ -31,6 +31,8 @@
 
 🦾 **4-Model Vision Pipeline** (GVHMR · ViTPose-H · RTMPose-L · YOLO-World) &nbsp;·&nbsp; ⏱️ **≤150ms Digital-Twin Sync** &nbsp;·&nbsp; 🏢 **7-Floor Auto-Align (DXF→3D)**
 
+🐕 **Quadruped Robot Controller** — 1 codebase → **6 platforms** (Android · iOS · Web · Linux · Windows · **Steam Deck**) &nbsp;·&nbsp; 📡 **WebRTC Teleop over CGNAT**
+
 🤖 **Multi-Agent Parallel Dev** &nbsp;·&nbsp; 🧠 **9,556 Node / 12,063 Edge RAG Graph** (Hit Rate 100%) &nbsp;·&nbsp; ⚡ **12mo→1mo** (AI Native)
 
 🛠 **[Harness Bench](https://github.com/glowElephant/harness-bench): 74/80 — Tool Maker** &nbsp;·&nbsp; 🎮 **4 Games Shipped** &nbsp;·&nbsp; 📱 **3 Apps** &nbsp;·&nbsp; 🔨 **16 Tools** &nbsp;·&nbsp; 📦 **24 Original Repos** &nbsp;·&nbsp; 🏗️ **2 Digital Twins**

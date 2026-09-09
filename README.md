@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=PRODUCT%20BUILDER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:34a853,100:1a73e8&height=200&section=header&text=QUADRUPED%20ROBOT%20SW&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=glowElephant&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Product+Builder+%2F+Physical+AI+%C2%B7+Digital+Twin+Engineer;%24+approach+%E2%86%92+AI+Native+Engineering+(Agent-Driven);%24+focus+%E2%86%92+Vision+%C2%B7+Pose+%C2%B7+Digital+Twin+%C2%B7+Spatial;%24+cat+motto.txt+%E2%86%92+%EC%A2%8B%EC%9D%80+%EC%A0%9C%ED%92%88%EC%9D%80%2C+%EA%B9%8A%EC%9D%80+%EC%9D%B4%ED%95%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4;%24+./ship+--games+4+--apps+3+--tools+15%2B+--digital-twins+2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=1A73E8&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+whoami+%E2%86%92+Quadruped+Robot+Software+Engineer;%24+where+%E2%86%92+Rainbow+Robotics+%C2%B7+Principal+Researcher;%24+before+%E2%86%92+Digital+Twin+%C2%B7+Computer+Vision+%C2%B7+AR;%24+./ship+--games+4+--apps+3+--digital-twins+2" alt="Typing SVG" /></a>
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Physical_AI-Digital_Twin_Engineer-1a73e8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Quadruped_Robot-Software_Engineer-1a73e8?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI_Native_Engineering-Agent_Driven-7b1fa2?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
@@ -79,7 +79,7 @@
 
 **🤖 Agentic / RAG / MCP** &nbsp; `Claude Code Parallel Agents` · `AI_Language Protocol` · `RAG · GraphRAG · BM25 (Hybrid)` · `FAISS` · `NetworkX` · `MCP (직접 개발 2 + 연동 6)`
 
-**🧠 Generative AI Arsenal** &nbsp; `OpenAI` · `Claude` · `Gemini` · `OpenClaw` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
+**🧠 Generative AI Arsenal** &nbsp; `Claude` · `OpenAI` · `Gemini` · `Midjourney` · `Flux` · `D-ID` · `HeyGen` · `Applio` · `ComfyUI` · `Kling AI` · `Hailuo AI` · `Veo` · `NotebookLM`
 
 </div>
 
@@ -133,7 +133,7 @@
 | 🌊 | **[Molten](https://github.com/glowElephant/Molten)** | `Agentic AI` `Tool` | AI 코딩 에이전트용 액체형 터미널 래퍼. tmux 호환, 도킹 레이아웃, AI 상태 자동 감지, 12개 테마, 세션 간 통신 | `Tauri 2` `Rust` `React` `TypeScript` `xterm.js` |
 | 🛠 | **[harness-bench](https://github.com/glowElephant/harness-bench)** &nbsp; [![npm](https://img.shields.io/npm/v/harness-bench?style=flat-square&label=npm&color=cb3837)](https://www.npmjs.com/package/harness-bench) | `Agentic AI` `Tool` `Benchmark` | Claude Code 개발 환경의 AI Native 성숙도를 8축으로 측정하는 CLI. 절대 임계값(CMM+Anthropic+산업자료) + 동적 percentile. 5초 안에 결과, 메타데이터만, 코드/프롬프트 절대 안 읽음. 본인 점수 **74/80 Tool Maker** | `Node.js` `TypeScript` `npx harness-bench` |
 | 🧬 | **[loom-protocol](https://github.com/glowElephant/loom-protocol)** | `Standard` `Game AI` | 살아있는 게임을 위한 의미 프로토콜. **LGD 10 레이어** (IDENTITY/SOUL/MOOD/WORLD/RULES/PACING/ADAPTATION/REALITY/STATE/CHRONICLE), RFC 2119 키워드, EBNF, 컨포먼스 레벨 Bronze→Platinum, 14챕터 백서, 한·영 동등 작성, CC BY 4.0 + MIT 듀얼 라이선스 | `Spec` `Whitepaper` `JSON Schema` `MCP` |
-| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | `Web` `AI Chat` | 포트폴리오 사이트 + OpenClaw AI 실시간 상담 챗봇 + 방문자 분석 대시보드 | `Node.js` `OpenClaw` `SSE` |
+| 🌐 | **[vidfolio](https://glowelephant.site/?utm_source=github)** &nbsp; [![chat](https://img.shields.io/badge/💬_AI_Chat-7b1fa2?style=flat-square)](https://glowelephant.site/chat?utm_source=github) | `Web` `AI Chat` | 포트폴리오 사이트 + AI 챗봇 + 방문자 분석 대시보드. Cloudflare Workers·D1 위에서 동작 | `Cloudflare Workers` `D1` `AI Chat` |
 | 🎙️ | **[briefcast](https://github.com/glowElephant/briefcast)** | `Generative AI` | 매일 아침 AI 팟캐스트 자동 생성. 26종 주제, NotebookLM 오디오, Google Drive 업로드, 채널 관리 대시보드 | `Python` `FastAPI` `NotebookLM` |
 | 📡 | **[claude-team-monitor](https://github.com/glowElephant/claude-team-monitor)** | `Agentic AI` `Tool` | Claude Code 멀티 에이전트 팀 실시간 터미널 대시보드. npm 의존성 0개, CJK 지원 | `JavaScript` `Node.js` |
 | 💱 | **currency-edge** &nbsp; [![README](https://img.shields.io/badge/📖_README-blue?style=flat-square)](https://github.com/glowElephant/private-projects/tree/main/currency-edge) | `Agentic AI` `Quant` | USD/KRW 환차익 자동매매. 6슬롯 분산 매매 엔진, Claude AI 10분 옵티마이저, Watchdog 자동 복구, 중세 길드 대시보드, 디스코드 봇, 백테스트 시뮬레이터 | `Python` `FastAPI` `WebSocket` `Claude` `Streamlit` |

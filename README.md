@@ -1,6 +1,6 @@
 ### Hi, I'm Hanah — I make robotics teams build faster with AI.
 
-**Principal Researcher, AI Transformation @ [Rainbow Robotics](https://www.rainbow-robotics.com)**
+**Senior Researcher, AI Transformation @ [Rainbow Robotics](https://www.rainbow-robotics.com)**
 I lead AX for the RBQ quadruped: turning how we develop, test, and ship robots into workflows where AI agents do the heavy lifting.
 
 #### Since joining (Jun 2026)
